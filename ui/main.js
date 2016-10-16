@@ -1,3 +1,3 @@
-alart("Hello ...!!!!You are successfully loaded....")
+alart("Hello ...!!!!You are successfully loaded....");
 
 console.log('Loaded!');
